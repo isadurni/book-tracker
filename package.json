@@ -32,7 +32,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://isadurni.github.io/book-tracker",
+  "homepage": "https://isadurni.github.io/react_app_tutorial",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }

@@ -18,3 +18,6 @@ Book Tracker is a dynamic webpage that allows users to search for their favorite
 - **Styling**: Bootstrap, CSS
 - **Build Tool**: Vite
 - **Deployment**: GitHub Pages
+
+## **Credits**
+This project was inspired by [JavaScript Mastery](https://www.youtube.com/watch?v=b9eMGE7QtTk&ab_channel=JavaScriptMastery), which provided a foundation for building this app.

@@ -2,7 +2,7 @@
 
 Dynamic book catalog built with React.js
 
-[Check it out here!](https://isadurni.github.io/book-tracker)
+[Check it out here!](https://youtu.be/6nU5VK8QCH0?si=BC2t9HK4bnstquxa)
 
 ## **About**
 Book Tracker is a dynamic webpage that allows users to search for their favorite books and authors. By leveraging the Google Books API, the app fetches real-time data and presents it in a clean, user-friendly interface. The app is designed using React.js and styled with Bootstrap and custom CSS for a polished look.
